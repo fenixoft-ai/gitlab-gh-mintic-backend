@@ -1,0 +1,24 @@
+
+
+
+9cd2b3f5d5c64013dde467a96acc681b  ETL-Tableros01-02.ipynb
+
+
+af4e2e8ba37a8d765c5f4911af813355  ETL-TablerosGestion.ipynb
+
+bd2df883e930a8854d2025becef9ad72  ETL-Trafico.ipynb
+
+
+78d0d3c1df3a62fa02bb575001a64da7  ETL-Tablero07.ipynb
+
+2fc86c412de851d0c5c719d4a2b2c86d  ETL-Tablero08.ipynb
+
+1431e84d33c9c315dce60e6be87b27f0  ETL-Tablero09.ipynb
+
+c4870583dd8182194bc06458e217ceea  mintic-concat-usuarios-categorias-web.ipynb
+
+059f0d9296f5e97f38d3f70f159946da  ETL-Tablero11.ipynb
+
+c185f6e0b2280dae5bc3ca70bcf16930  ETL-Tablero12.ipynb
+
+60a9cc1f7b91eaaaa6cb73bc7cbba6a7  ETL-Tablero13.ipynb
